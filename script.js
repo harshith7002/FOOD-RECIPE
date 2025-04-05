@@ -1,4 +1,4 @@
-// Code is written by CHIRAG RAJ
+
 "use strict";
 
 // Get HTML element
